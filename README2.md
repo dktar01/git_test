@@ -1,0 +1,1 @@
+I am posting this second READEME for practice purposes, I am not sure on alot of it, more practice of Git CLI commands, practice makes perfect.
