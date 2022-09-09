@@ -1,9 +1,6 @@
 # git_test
 
-"Hello Odin!"
+"Updating Line 3 to say Practice makes Perfect."
 
-"Hello everyone, I have made changes to my README, and I wish to save it to GIT to reference in the future."
-
-"Practice_Makes_Perfect"
 
 
