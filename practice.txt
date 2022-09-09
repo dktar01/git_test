@@ -1,0 +1,3 @@
+I opened this practice .txt file so i can learn CLI commands more often, and this will also help me use CLI more fluently.
+
+
