@@ -1,10 +1,23 @@
 <!DOCTYPE html>
-<html lang=""en">
-
-<head>
-    <style>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Collaborative Webpage | Portfolio Project</title>
+    <!-- If you make a CSS file, name it style.css and it will link to this page -->
+        <link rel="stylesheet" href="style.css">
+            <style>
 
         /* Styling the body element
         like body color and margin */
-    </style>
-</head></html>
+            </style>
+    </head>
+    <body>
+        <header>
+        </header>
+        <main>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
