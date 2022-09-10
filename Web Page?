@@ -20,11 +20,18 @@
                     <li><a href="aboutme.html"><button>About</button></a></li>
                     <li><a href="portfolio.html"><button>Portfolio</button></a></li>
                     <li><a href="https://www.linkedin.com/in/dakota-tarvas-732407211" target="_blank"><button>LinkedIn</button></a></li>
+                    <li><a href="githubprofiles.github.com" target="_blank"><button>GitHub</button></a></li>
                     <li><a href="mailto: abc@example.com" target="_blank"><button>Contact</button></a></li>
                 </ul>
             </div>
         </header>
         <main>
+        <h2>Command Line</h2>
+        <h2>HTML</h2>
+        <h2>CSS</h2>
+        <h2>JavaScript</h2>
+        <h2>Git</h2>
+        <h2>GitHub</h2>
         </main>
         <footer>
         </footer>
